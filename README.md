@@ -11,4 +11,6 @@ A simple Android practice app built to learn Kotlin Coroutines and View Binding 
 - **State Management** — tracked running state and elapsed seconds using Kotlin variables with proper start/stop/reset logic
 - **Job Cancellation** — cancelled the coroutine `Job` on stop and reset to cleanly terminate the timer
 
+
+## Demo
 <img width="25%" width="25%" alt="Simple Stopwatch" src="https://github.com/user-attachments/assets/7e30df4e-07a3-44b0-b4f0-736bdb213756" />
