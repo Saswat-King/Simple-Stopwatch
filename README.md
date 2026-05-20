@@ -13,4 +13,4 @@ A simple Android practice app built to learn Kotlin Coroutines and View Binding 
 
 
 ## Demo
-<img width="25%" width="25%" alt="Simple Stopwatch" src="https://github.com/user-attachments/assets/7e30df4e-07a3-44b0-b4f0-736bdb213756" />
+<img width="25%" alt="Simple Stopwatch" src="https://github.com/user-attachments/assets/7e30df4e-07a3-44b0-b4f0-736bdb213756" />
